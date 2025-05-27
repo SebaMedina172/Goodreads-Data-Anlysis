@@ -24,4 +24,4 @@ Este directorio está destinado a contener los datos crudos utilizados para gene
 
 Con los archivos crudos listos, puedes proceder a ejecutar el script `obtain_samples.py` para generar las muestras necesarias. Este script está diseñado para tomar los datos originales y crear un dataset reducido y manejable para el análisis.
 
-Si tienes dudas o necesitas ayuda adicional, no dudes en consultar el [README principal del repositorio](../README.md).
+Si tienes dudas o necesitas ayuda adicional, no dudes en consultar el [README principal del repositorio](../../README.md).
